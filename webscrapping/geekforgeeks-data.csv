@@ -1,0 +1,289 @@
+Text
+Python Programming Language
+Introduction To PYTHON
+Python Language advantages and applications
+Download and Install Python 3 Latest Version
+Python 3 basics
+Python Keywords
+Namespaces and Scope in Python
+"Statement, Indentation and Comment in Python"
+How to assign values to variables in Python and other languages
+Taking input in Python
+Taking input from console in Python
+Taking multiple inputs from user in Python
+Python | Output using print() function
+How to print without newline in Python?
+Python end parameter in print()
+Python | sep parameter in print()
+Python | Output Formatting
+Python Operators
+Ternary Operator in Python
+Division Operators in Python
+Operator Overloading in Python
+Any All in Python
+Operator Functions in Python | Set 1
+Operator Functions in Python | Set 2
+Difference between == and is operator in Python
+Python Membership and Identity Operators
+"Python | Set 3 (Strings, Lists, Tuples, Iterations)"
+Python String
+Python Lists
+Python Tuples
+Python Sets
+Python Dictionary
+Python Arrays
+Control Flow in Python
+Chaining comparison operators in Python
+Python For Loops
+Python While Loop
+Python break statement
+Python Continue Statement
+Python pass Statement
+Looping Techniques in Python
+Python Functions
+*args and **kwargs in Python
+When to use yield instead of return in Python?
+Generators in Python
+Python lambda
+Global and Local Variables in Python
+Global keyword in Python
+First Class functions in Python
+Python Closures
+Decorators in Python
+Decorators with parameters in Python
+Memoization using decorators in Python
+Python Classes and Objects
+Constructors in Python
+Destructors in Python
+Inheritance in Python
+Types of inheritance Python
+Encapsulation in Python
+Polymorphism in Python
+Class or Static Variables in Python
+Class method vs Static method in Python
+Python Exception Handling
+Python Try Except
+Errors and Exceptions in Python
+Built-in Exceptions in Python
+User-defined Exceptions in Python with Examples
+NZEC error in Python
+File Handling in Python
+Open a File in Python
+How to read from a file in Python
+Writing to file in Python
+Python append to a file
+Regular Expression in Python with Examples | Set 1
+"Regular Expressions in Python – Set 2 (Search, Match and Find All)"
+Python Regex: re.search() VS re.findall()
+Verbose in Python Regex
+Password validation in Python
+Python Collections Module
+Counters in Python | Set 1 (Initialization and Updation)
+OrderedDict in Python
+Defaultdict in Python
+ChainMap in Python
+Namedtuple in Python
+Deque in Python
+Heap queue (or heapq) in Python
+Collections.UserDict in Python
+Collections.UserList in Python
+Collections.UserString in Python
+OS Module in Python with Examples
+Functional Programming in Python
+Metaprogramming with Metaclasses in Python
+Abstract Classes in Python
+Multithreading in Python | Set 1
+Multithreading in Python | Set 2 (Synchronization)
+Multiprocessing in Python | Set 1 (Introduction)
+Multiprocessing in Python | Set 2 (Communication between processes)
+Socket Programming in Python
+Socket Programming with Multi-threading in Python
+NumPy Tutorial
+Python Numpy
+Numpy | ndarray
+Numpy | Array Creation
+Numpy | Indexing
+Basic Slicing and Advanced Indexing in NumPy Python
+Numpy | Data Type Objects
+Numpy | Iterating Over Array
+Numpy | Binary Operations
+Numpy | Mathematical Function
+Numpy | String Operations
+Numpy | Linear Algebra
+"Numpy | Sorting, Searching and Counting"
+Random sampling in numpy | randint() function
+Random sampling in numpy | random_sample() function
+Random sampling in numpy | ranf() function
+Random sampling in numpy | random_integers() function
+Numpy ufunc | Universal functions
+Pandas Tutorial
+Introduction to Pandas in Python
+How to Install Python Pandas on Windows and Linux?
+Python | Pandas DataFrame
+Creating a Pandas DataFrame
+Python | Pandas Series
+Creating a Pandas Series
+Python | Pandas Dataframe/Series.head() method
+Python | Pandas Dataframe.describe() method
+Dealing with Rows and Columns in Pandas DataFrame
+Python | Pandas Extracting rows using .loc[]
+Python | Extracting rows using Pandas .iloc[]
+Indexing and Selecting Data with Pandas
+Boolean Indexing in Pandas
+Pandas GroupBy
+"Python | Pandas Merging, Joining, and Concatenating"
+Python | Working with date and time using Pandas
+Python | Pandas Working With Text Data
+Python | Read csv using pandas.read_csv()
+Python | Working with Pandas and XlsxWriter | Set – 1
+Django Tutorial
+Django Basics
+Django Introduction and Installation
+Django Project MVT Structure
+How to Create a Basic Project using MVT in Django ?
+How to Create an App in Django ?
+Django Forms
+Render HTML Forms (GET & POST) in Django
+Django form field custom widgets
+Django ModelForm – Create form from Models
+Django Formsets
+Django ModelFormSets
+Django Templates
+Views In Django | Python
+"Django CRUD (Create, Retrieve, Update, Delete) Function Based Views"
+"Class Based Generic Views Django (Create, Retrieve, Update, Delete)"
+Django Models
+"Django ORM – Inserting, Updating & Deleting Data"
+Django Basic App Model – Makemigrations and Migrate
+Python JSON
+Working With JSON Data in Python
+"Read, Write and Parse JSON using Python"
+Append to JSON file using Python
+Serializing JSON data in Python
+Deserialize JSON to Object in Python
+Working with csv files in Python
+Reading CSV files in Python
+Writing CSV files in Python
+Python MySQL
+Connect MySQL database using MySQL-Connector Python
+Python MySQL – Create Database
+Python: MySQL Create Table
+Python MySQL – Insert into Table
+Python MySQL – Select Query
+Python MySQL – Where Clause
+Python MySQL – Order By Clause
+Python MySQL – Delete Query
+Python MySQL – Drop Table
+Python MySQL – Update Query
+Python MySQL – Limit Clause
+Python MySQL – Join
+Python MongoDB Tutorial
+Installing MongoDB on Windows with Python
+MongoDB and Python
+Create a database in MongoDB using Python
+Python MongoDB – insert_one Query
+Python MongoDB – insert_many Query
+Python MongoDB – Find
+Python MongoDB – Query
+Python MongoDB – Sort
+MongoDB python | Delete Data and Drop Collection
+Python Mongodb – Delete_one()
+Python Mongodb – Delete_many()
+Python MongoDB – Update_one()
+Python MongoDB – Update_many Query
+Python MongoDB – Limit Query
+Python MongoDB – create_index Query
+Python MongoDB – drop_index Query
+OpenCV Python Tutorial
+Introduction to OpenCV
+How to Install OpenCV for Python on Windows?
+Reading an image in OpenCV using Python
+OpenCV | Saving an Image
+Arithmetic Operations on Images using OpenCV | Set-1 (Addition and Subtraction)
+Arithmetic Operations on Images using OpenCV | Set-2 (Bitwise Operations on Binary Images)
+Image Resizing using OpenCV | Python
+"Image Processing in Python (Scaling, Rotating, Shifting and Edge Detection)"
+Python | Image blurring using OpenCV
+Erosion and Dilation of images using OpenCV in python
+Python | Thresholding techniques using OpenCV | Set-1 (Simple Thresholding)
+Python | Thresholding techniques using OpenCV | Set-2 (Adaptive Thresholding)
+Python | Thresholding techniques using OpenCV | Set-3 (Otsu Thresholding)
+Filter Color with OpenCV
+Python | Bilateral Filtering
+Python | Background subtraction using OpenCV
+Python | Play a video using OpenCV
+Extract images from video in Python
+Face Detection using Python and OpenCV with webcam
+Selenium Python Tutorial
+"Selenium Basics – Components, Features, Uses and Limitations"
+Components of Selenium
+Selenium Python Introduction and Installation
+Navigating links using get method – Selenium Python
+Interacting with Webpage – Selenium Python
+Locating single elements in Selenium Python
+Locating multiple elements in Selenium Python
+Locator Strategies – Selenium Python
+Action Chains in Selenium Python
+Exceptions – Selenium Python
+Python Tkinter Tutorial
+Introduction to Tkinter
+What are Widgets in Tkinter?
+Python | Creating a button in tkinter
+Python Tkinter – Label
+RadioButton in Tkinter | Python
+Python Tkinter – Checkbutton Widget
+Python Tkinter – Canvas Widget
+Combobox Widget in tkinter | Python
+Python Tkinter – Entry Widget
+Python Tkinter – Text Widget
+Python Tkinter – Message
+Python | Menu widget in Tkinter
+Python Tkinter – SpinBox
+Progressbar widget in Tkinter | Python
+Python-Tkinter Scrollbar
+Python Tkinter – ScrolledText Widget
+Python Tkinter – ListBox Widget
+Python Tkinter – Frame Widget
+Python Tkinter – Scale Widget
+Hierarchical treeview in Python GUI application
+Python-Tkinter Treeview scrollbar
+Python Tkinter – Toplevel Widget
+Python | askopenfile() function in Tkinter
+Python | asksaveasfile() function in Tkinter
+Python – Tkinter askquestion Dialog
+Python Tkinter – MessageBox Widget
+Python | place() method in Tkinter
+Python | grid() method in Tkinter
+Python | pack() method in Tkinter
+Python | PanedWindow Widget in Tkinter
+Python | Binding function in Tkinter
+Python Tkinter – Validating Entry Widget
+Kivy Tutorial
+Introduction to Kivy ; A Cross-platform Python Framework
+Python | Add Label to a kivy window
+Python | Textinput widget in kivy
+Python | Canvas in kivy
+Python | Checkbox widget in Kivy
+Python | Dropdown list in kivy
+Python | Carousel Widget In Kivy
+Python | BoxLayout widget in Kivy
+Python | Slider widget in Kivy
+Python | Popup widget in Kivy
+Python | Switch widget in Kivy
+Python | Spinner widget in kivy
+Python | Progress Bar widget in kivy
+Python | Working with buttons in Kivy
+Python | Float Layout in Kivy
+GridLayouts in Kivy | Python
+Python | StackLayout in Kivy
+Python| AnchorLayout in Kivy
+Python | Relative Layout in Kivy
+Python | PageLayout in Kivy
+Matplotlib Tutorial
+Python Seaborn Tutorial
+Python Plotly tutorial
+Python Bokeh tutorial – Interactive Data Visualization with Bokeh
+Tableau Tutorial
+Python Programming Examples
+"Python Exercises, Practice Questions and Solutions"
+Python Multiple Choice Questions
